@@ -40,7 +40,7 @@ var HomeView = React.createClass({
 		return (
 			<Container data-screen-id="home">
 				<div className="dashboard-header">
-					<div className="dashboard-heading">{Keystone.brand}</div>
+					<div className="dashboard-heading"> Administration</div>
 				</div>
 				<div className="dashboard-groups">
 					{(this.props.error) && (
