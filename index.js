@@ -17,7 +17,6 @@ var moduleRoot = (function (_rootPath) {
 	return parts.join(path.sep);
 })(module.parent ? module.parent.paths[0] : module.paths[0]);
 
-
 /**
  * Keystone Class
  */
@@ -46,7 +45,6 @@ var Keystone = function () {
 
 	// init environment defaults
 	this.set('env', process.env.NODE_ENV || 'development');
-
 	this.set('port', process.env.PORT || process.env.OPENSHIFT_NODEJS_PORT || '3000');
 	this.set('host', process.env.HOST || process.env.IP || process.env.OPENSHIFT_NODEJS_IP || '0.0.0.0');
 	this.set('listen', process.env.LISTEN);
