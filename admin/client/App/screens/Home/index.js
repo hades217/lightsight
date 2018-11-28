@@ -40,7 +40,7 @@ var HomeView = React.createClass({
 		return (
 			<Container data-screen-id="home">
 				<div className="dashboard-header">
-					<div className="dashboard-heading"> Administration</div>
+					<div className="dashboard-heading">{Keystone.brand}</div>
 				</div>
 				<div className="dashboard-groups">
 					{(this.props.error) && (
@@ -72,7 +72,15 @@ var HomeView = React.createClass({
 								);
 							})}
 							{/* Render orphaned lists */}
-
+							{Keystone.orphanedLists.length ? (
+								<Section label="Other" icon="octicon-database">
+									<Lists
+										counts={this.props.counts}
+										lists={Keystone.orphanedLists}
+										spinner={spinner}
+									/>
+								</Section>
+							) : null}
 						</div>
 					)}
 				</div>
