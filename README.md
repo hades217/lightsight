@@ -67,7 +67,7 @@ Visit [The best code bootcamp in Australia: JR Academy](https://jiangren.com.au)
 
 [Brisbane JR Academy | Code bootcamp](https://jiangren.com.au/city/brisbane).
 
-[JR Talent](https://jrtalent.com.au)
+[澳洲IT 最大程序员社群](https://jiangren.com.au)
 
 ## License
 
