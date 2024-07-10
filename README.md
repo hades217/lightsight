@@ -69,6 +69,10 @@ Visit [The best code bootcamp in Australia: JR Academy](https://jiangren.com.au)
 
 [澳洲IT 最大程序员社群](https://jiangren.com.au)
 
+[Web全栈](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1)
+
+[澳洲找工作](https://jiangren.com.au/job)
+
 ## License
 
 (The MIT License)
