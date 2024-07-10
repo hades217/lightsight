@@ -57,7 +57,7 @@ Keystone's development is led by [Jed Watson](https://github.com/JedWatson), [Jo
 
 ## The Jiangren Website.
 The best code bootcamp in Australia
-Visit [The best code bootcamp in Australia: JR Academy](https://jiangren.com.au).
+Visit [The best code bootcamp in Australia: JR Academy](https://jracademy.com.au).
 
 ## Australia IT Professional Community
 
@@ -72,6 +72,8 @@ Visit [The best code bootcamp in Australia: JR Academy](https://jiangren.com.au)
 [Web全栈](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1)
 
 [澳洲找工作](https://jiangren.com.au/job)
+
+[匠人学院](https://jiangren.com.au)
 
 ## License
 
